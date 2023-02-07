@@ -12,6 +12,8 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="dict.itmes" />
+          <option value="dict.append" />
+          <option value="dict.dict" />
         </list>
       </option>
     </inspection_tool>
